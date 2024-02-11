@@ -1,0 +1,6 @@
+lib/
+data/
+*.json*
+*.duckdb_extension
+*.zip
+extensions/
